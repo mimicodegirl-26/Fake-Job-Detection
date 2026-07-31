@@ -61,9 +61,3 @@ Install required packages:
 pip install -r requirements.txt
 ```
 
-Run the notebooks or source files to reproduce the experiments.
-
-```
-
-This version is more suitable for a GitHub project repository and does not mention team members.
-```
