@@ -11,14 +11,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Data (keep large datasets out of Git)
-data/raw/
-data/processed/
-
-# Results
-results/figures/
-results/models/
-
 # OS files
 .DS_Store
 Thumbs.db
